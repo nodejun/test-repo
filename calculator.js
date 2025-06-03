@@ -5,4 +5,3 @@ const add = (a, b) => {
 const subtract = (a, b) => {
 	return a - b
 }
-console.log( "hi" )
