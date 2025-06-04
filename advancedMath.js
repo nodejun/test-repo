@@ -41,6 +41,4 @@ const sqrt = (n) => {
 // 거듭제곱
 const pow = (base, exponent) => base ** exponent;
 
-const divide_local = () => {
-	// TODO
-}
+
